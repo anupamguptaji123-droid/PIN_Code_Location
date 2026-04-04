@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PIN Code Location Finder</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Enter PIN Code to Find Location</h1>
+        <form id="pincode-form">
+            <input type="text" id="pincode" placeholder="Enter 6-digit PIN code" maxlength="6" required>
+            <button type="submit">Find Location</button>
+        </form>
+        <div id="results"></div>
+        <div id="map" style="height: 400px;"></div> <!-- Added map container -->
+    </div>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
