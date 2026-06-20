@@ -55,7 +55,7 @@
 
 ### 📍 Search Result with Map
 
-<p align="center>
+<p align="center">
  <img width="752" height="885" alt="Screenshot 2026-06-20 220711" src="https://github.com/user-attachments/assets/b20943ab-14e1-40ea-9b01-c1e3f92ee5fa" />
 
 </p>
