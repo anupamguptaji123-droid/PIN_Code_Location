@@ -114,7 +114,7 @@ Map Area
 
 ```text
 PIN Code: 201314
-Dadri, Noida, Uttarpradesh, India
+Dadri, Noida, Gautambudh Nagar, India
 Map with Marker
 ```
 <p align ="center">
@@ -163,7 +163,7 @@ Input:
 Output:
 
 ```text
-201314, Dadri, Noida, Uttarpradesh, India
+201314, Dadri, Gautambudh Nagar, Uttarpradesh, India
 ```
 
 with an interactive map and marker.
