@@ -1,4 +1,3 @@
-````markdown
 # 🌍 PIN Code Location Finder
 
 <div align="center">
@@ -13,8 +12,6 @@
 
 </div>
 
----
-
 ## ✨ Overview
 
 **PIN Code Location Finder** is a simple and user-friendly web application that allows users to search for any **6-digit Indian PIN code** and instantly view:
@@ -25,7 +22,7 @@
 - 🗺️ Interactive map using Leaflet
 - 📍 Marker showing the exact location
 
----
+
 
 ## 🚀 Features
 
@@ -41,7 +38,6 @@
 
 ✅ Fast and lightweight
 
----
 
 ## 🖼️ Project Preview
 
@@ -57,7 +53,6 @@
 <img src="https://via.placeholder.com/800x450/F5D7B2/000000?text=Location+Result+With+Map" width="800">
 </p>
 
----
 
 ## 🛠️ Technologies Used
 
@@ -69,7 +64,6 @@
 | 🗺️ Leaflet.js | Interactive maps |
 | 🌍 OpenStreetMap | Map tiles and location display |
 
----
 
 ## 📂 Project Structure
 
@@ -92,7 +86,6 @@ PIN-Code-Location-Finder/
 4. The location is displayed on the screen.
 5. An interactive map opens with a marker placed on the corresponding area.
 
----
 
 ## 📸 Screenshots
 
@@ -104,6 +97,9 @@ Find Location Button
 Map Area
 ```
 
+<img width="807" height="866" alt="Screenshot 2026-06-20 220651" src="https://github.com/user-attachments/assets/8dda02cd-72a2-4864-81a5-9adb856aa864" />
+
+
 ### Result Page
 
 ```text
@@ -112,7 +108,9 @@ Belhar, Banka, Bihar, India
 Map with Marker
 ```
 
----
+<img width="752" height="885" alt="Screenshot 2026-06-20 220711" src="https://github.com/user-attachments/assets/ac31ae01-7140-48f2-9b29-91a93fb642d0" />
+
+
 
 ## 💻 Installation
 
@@ -138,7 +136,6 @@ index.html
 
 in your browser.
 
----
 
 ## 🎯 Example
 
@@ -156,7 +153,6 @@ Output:
 
 with an interactive map and marker.
 
----
 
 ## 🌟 Future Enhancements
 
@@ -169,7 +165,6 @@ with an interactive map and marker.
 - 🌐 Support for multiple countries
 - 🧭 Route navigation feature
 
----
 
 ## 🤝 Contributing
 
@@ -200,11 +195,11 @@ git push origin feature-name
 
 ## 👨‍💻 Author
 
-**Anupam Gupta**
+**Anupam Kumari**
 
 📌 Passionate about Web Development and JavaScript Projects.
 
----
+
 
 <div align="center">
 
@@ -213,4 +208,4 @@ git push origin feature-name
 Made with ❤️ using HTML, CSS, JavaScript and Leaflet
 
 </div>
-````
+
