@@ -156,13 +156,13 @@ in your browser.
 Input:
 
 ```text
-813106
+201314
 ```
 
 Output:
 
 ```text
-813106, Belhar, Banka, Bihar, India
+201314, Dadri, Noida, Uttarpradesh, India
 ```
 
 with an interactive map and marker.
