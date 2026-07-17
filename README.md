@@ -222,5 +222,5 @@ git push origin feature-name
 
 Made with ❤️ using HTML, CSS, JavaScript and Leaflet
 
-</div>
+</div> 
 
